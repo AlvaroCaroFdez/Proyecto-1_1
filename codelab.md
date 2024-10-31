@@ -13,6 +13,7 @@ status: Publicado
 - [Actualización de la BIOS/UEFI](#actualización-de-la-biosuefi)
 - [Opciones Avanzadas de Seguridad (Opcional)](#opciones-avanzadas-de-seguridad-opcional)
 - [Guardar y Salir](#guardar-y-salir)
+- [Verificación de Cambios](#verificación-de-cambios)
 - [Conclusión](#conclusión)
 
 # Introducción
