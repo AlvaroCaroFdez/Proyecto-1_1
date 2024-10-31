@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-10-31T13:16:48+01:00",
+  "id": "Proyecto 1.1",
+  "duration": 0,
+  "title": "Guía para bastionar BIOS/UEFI",
+  "summary": "Guía para bastionar BIOS/UEFI",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "publicado"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "Proyecto 1.1"
+}
