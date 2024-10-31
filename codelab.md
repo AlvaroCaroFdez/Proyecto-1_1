@@ -5,7 +5,9 @@ categories: codelab,markdown
 environments: Web
 status: Publicado
 
-# ÍNDICE
+# Guía para bastionar BIOS/UEFI
+
+## ÍNDICE
 - [Introducción](#introducción)
 - [Acceso a la BIOS/UEFI](#acceso-a-la-biosuefi)
 - [Configuraciones de Seguridad](#configuraciones-de-seguridad)
