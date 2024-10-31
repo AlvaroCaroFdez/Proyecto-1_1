@@ -5,6 +5,16 @@ categories: codelab,markdown
 environments: Web
 status: Publicado
 
+# ÍNDICE
+- [Introducción](#introducción)
+- [Acceso a la BIOS/UEFI](#acceso-a-la-biosuefi)
+- [Configuraciones de Seguridad](#configuraciones-de-seguridad)
+- [Configuraciones de Arranque](#configuraciones-de-arranque)
+- [Actualización de la BIOS/UEFI](#actualización-de-la-biosuefi)
+- [Opciones Avanzadas de Seguridad (Opcional)](#opciones-avanzadas-de-seguridad-opcional)
+- [Guardar y Salir](#guardar-y-salir)
+- [Conclusión](#conclusión)
+
 # Introducción
 
 La BIOS (Basic Input/Output System) y su sucesora, la UEFI (Unified Extensible Firmware Interface), son componentes fundamentales en la arquitectura de cualquier ordenador. Su función principal es inicializar el hardware durante el proceso de arranque y proporcionar un entorno para que el sistema operativo cargue. A través de la BIOS/UEFI, se puede acceder a diversas configuraciones relacionadas con el hardware, como la secuencia de arranque, las configuraciones de dispositivos y las opciones de seguridad.
